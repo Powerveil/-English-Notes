@@ -1,0 +1,6 @@
+echo add
+git add .
+echo commiting.......
+git commit -m "”¢”Ô—ßœ∞"
+echo pushing.......
+git push origin main
